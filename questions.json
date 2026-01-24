@@ -3246,7 +3246,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Lái xe liên tục: Không quá 4 giờ."
+    "hint": "Luật quy định người lái xe ô tô kinh doanh vận tải không được lái xe <b>liên tục quá 4 giờ</b> để tránh mệt mỏi, buồn ngủ gây mất an toàn."
   },
   {
     "id": 172,
@@ -3265,7 +3265,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Lái xe làm việc: Không quá 10 giờ 1 ngày."
+    "hint": "Thời gian làm việc trong ngày của lái xe kinh doanh vận tải bị giới hạn <b>không quá 10 giờ</b> nhằm bảo đảm sức khỏe và an toàn giao thông."
   },
   {
     "id": 173,
@@ -3284,7 +3284,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Trước khi xe khách khởi hành: Kiểm tra an toàn xe, hướng dẫn khách an toàn & thoát hiểm."
+    "hint": "Trước khi khởi hành, lái xe và nhân viên phục vụ phải <b>kiểm tra an toàn kỹ thuật</b> và <b>hướng dẫn hành khách</b> về an toàn, thoát hiểm theo quy định."
   },
   {
     "id": 174,
@@ -3303,7 +3303,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe chở học sinh: Thiết bị ghi hình/chống bỏ quên, niên hạn <=20 năm, màu sơn quy định, dây đai/ghế phù hợp, đủ giấy tờ/thiết bị giám sát."
+    "hint": "Xe chở trẻ em, học sinh phải đáp ứng <b>đầy đủ thiết bị an toàn</b>, điều kiện kỹ thuật và <b>quy định riêng của Chính phủ</b> để bảo vệ trẻ em."
   },
   {
     "id": 175,
@@ -3322,7 +3322,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Vận chuyển động vật sống: Đủ giấy tờ, phương tiện phù hợp, tuân thủ luật GT, vệ sinh dịch tễ, môi trường."
+    "hint": "Vận chuyển động vật sống phải bảo đảm <b>đủ giấy tờ</b>, <b>phương tiện phù hợp</b> và tuân thủ quy định về an toàn giao thông, vệ sinh, phòng dịch."
   },
   {
     "id": 176,
@@ -3341,7 +3341,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Chở hàng nguy hiểm: Phải có giấy phép, (nếu cần) có người áp tải."
+    "hint": "Hàng hóa nguy hiểm chỉ được vận chuyển khi có <b>giấy phép hợp lệ</b> và <b>bố trí người áp tải khi cần thiết</b> để bảo đảm an toàn."
   },
   {
     "id": 177,
@@ -3360,7 +3360,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe nước ngoài (tay lái phải/du lịch): Tuân thủ luật VN (hoặc điều ước quốc tế), đúng phạm vi/tuyến/thời gian cấp phép, (tay lái phải) phải đi đoàn có hỗ trợ."
+    "hint": "Xe cơ giới nước ngoài vào Việt Nam phải <b>tuân thủ pháp luật Việt Nam</b>, đi đúng phạm vi được phép và <b>đi theo đoàn khi có tay lái bên phải</b>."
   },
   {
     "id": 178,
@@ -3379,7 +3379,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Chở người/hàng bằng xe máy/thô sơ: Kiểm tra xe, đủ giấy tờ, sắp xếp hàng an toàn, không chở quá tải/khổ/số người."
+    "hint": "Khi dùng xe mô tô, xe thô sơ chở người hoặc hàng hóa phải <b>kiểm tra an toàn xe</b> và <b>không chở quá tải, quá số người</b> theo quy định."
   },
   {
     "id": 179,
@@ -3398,7 +3398,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Chở hàng siêu trường/trọng: Chạy tốc độ trong giấy phép, báo hiệu kích thước, (nếu cần) có người/phương tiện hỗ trợ, cảnh báo."
+    "hint": "Xe chở hàng siêu trường, siêu trọng phải chạy đúng <b>tốc độ ghi trong giấy phép</b> và có <b>biện pháp cảnh báo an toàn</b> cho người khác."
   },
   {
     "id": 180,
@@ -3417,7 +3417,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe cứu hộ: Dấu hiệu nhận diện, thông tin, GSHT, ghi hình lái; Tuân thủ khối lượng quy định."
+    "hint": "Xe cứu hộ phải có <b>dấu hiệu nhận diện rõ ràng</b> và <b>tuân thủ quy định về khối lượng</b> để không gây nguy hiểm khi tham gia giao thông."
   },
   {
     "id": 181,
@@ -3436,7 +3436,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Đạo đức nghề nghiệp tốt (lái xe KDVT): Được tôn trọng, quý mến, tin dùng, thu hút khách, hiệu quả cao."
+    "hint": "Rèn luyện đạo đức nghề nghiệp giúp lái xe kinh doanh vận tải được <b>khách hàng tin tưởng</b> và <b>doanh nghiệp đánh giá cao</b>, góp phần phát triển xã hội."
   },
   {
     "id": 182,
@@ -3455,7 +3455,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Văn hóa giao thông: Tuân thủ pháp luật, nhường nhịn, giúp đỡ."
+    "hint": "Người có văn hóa giao thông luôn <b>chấp hành pháp luật</b> và <b>nhường nhịn, giúp đỡ</b> người khác khi tham gia giao thông."
   },
   {
     "id": 183,
@@ -3474,7 +3474,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Rèn luyện đạo đức lái xe KDVT: Quản lý xe tốt, tu dưỡng bản thân, chấp hành luật, trách nhiệm với khách, hợp tác."
+    "hint": "Đạo đức nghề nghiệp được hình thành từ việc <b>quản lý xe tốt</b>, <b>tuân thủ pháp luật</b> và có trách nhiệm với khách hàng, đồng nghiệp."
   },
   {
     "id": 184,
@@ -3493,7 +3493,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Lái xe khách về đạo đức: Lịch sự, giúp đỡ khách; Tu dưỡng bản thân, tôn trọng người khác, bảo vệ môi trường."
+    "hint": "Lái xe vận chuyển hành khách cần có <b>thái độ lịch sự</b>, biết giúp đỡ người yếu thế và <b>tu dưỡng lối sống lành mạnh</b>."
   },
   {
     "id": 185,
@@ -3512,7 +3512,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Văn hóa giao thông = Hiểu biết và chấp hành luật, ý thức trách nhiệm + Tôn trọng, nhường nhịn, giúp đỡ, ứng xử văn hóa."
+    "hint": "Văn hóa giao thông là sự kết hợp giữa <b>hiểu và chấp hành pháp luật</b> với <b>cách ứng xử tôn trọng, nhường nhịn</b> trên đường."
   },
   {
     "id": 186,
@@ -3531,7 +3531,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Qua vũng nước (có xe máy bên cạnh): Giảm tốc độ, chạy chậm."
+    "hint": "Giảm tốc độ khi đi qua vũng nước thể hiện <b>sự tôn trọng người khác</b> và tránh gây nguy hiểm cho người đi xe bên cạnh."
   },
   {
     "id": 187,
@@ -3550,7 +3550,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Sai làn, phóng nhanh, vượt ẩu/đèn đỏ, vào đường cấm = Thiếu văn hóa + Vi phạm pháp luật."
+    "hint": "Các hành vi như vượt đèn đỏ, đi sai làn không chỉ <b>vi phạm pháp luật</b> mà còn thể hiện <b>thiếu văn hóa giao thông</b>."
   },
   {
     "id": 188,
@@ -3569,7 +3569,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Máu phun thành tia (tai nạn GT): Cầm máu không trực tiếp (chặn động mạch)."
+    "hint": "Máu phun thành tia là dấu hiệu chảy máu động mạch nên phải <b>chặn động mạch</b> để cầm máu khẩn cấp."
   },
   {
     "id": 189,
@@ -3588,7 +3588,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Lái xe văn hóa: Hiểu và chấp hành luật, ý thức trách nhiệm, tôn trọng, nhường nhịn, giúp đỡ, ứng xử văn hóa."
+    "hint": "Lái xe có văn hóa cần <b>chấp hành luật</b>, có <b>trách nhiệm với cộng đồng</b> và ứng xử đúng mực với người khác."
   },
   {
     "id": 190,
@@ -3607,7 +3607,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Lái xe văn hóa tuân thủ: Hiệu lệnh người ĐKGT, tốc độ, đèn, biển báo, vạch kẻ; nhường đường người đi bộ/già/trẻ/khuyết tật."
+    "hint": "Tuân thủ hiệu lệnh giao thông và <b>nhường đường cho người yếu thế</b> là yêu cầu bắt buộc của người lái xe có văn hóa."
   },
   {
     "id": 191,
@@ -3626,7 +3626,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Lái xe mô tô văn hóa: Đi đúng bên phải, đúng phần đường/làn; đội mũ đúng chuẩn, cài quai."
+    "hint": "Đi đúng phần đường và <b>đội mũ bảo hiểm đạt chuẩn</b> là nghĩa vụ bắt buộc của người điều khiển xe mô tô."
   },
   {
     "id": 192,
@@ -3645,7 +3645,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Ứng xử văn hóa khi lái xe: Đi đúng bên phải, đúng phần đường/làn, dừng/đỗ đúng nơi; không rượu bia khi lái xe."
+    "hint": "Người lái xe có văn hóa luôn <b>đi đúng làn</b>, dừng đỗ đúng nơi và <b>không sử dụng rượu bia</b> khi lái xe."
   },
   {
     "id": 193,
@@ -3664,7 +3664,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Sử dụng còi văn hóa: Chỉ khi cần thiết, không liên tục/kéo dài, đúng âm lượng."
+    "hint": "Còi xe chỉ được dùng khi <b>thật sự cần thiết</b>, tránh gây ồn ào và ảnh hưởng đến người khác."
   },
   {
     "id": 194,
@@ -3683,7 +3683,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Trách nhiệm khi gây tai nạn/liên quan: Dừng xe, cảnh báo, giữ hiện trường, cứu người, báo tin; Ở lại hiện trường (trừ trường hợp khẩn cấp nhưng phải trình báo); Cung cấp thông tin."
+    "hint": "Người gây tai nạn hoặc liên quan phải <b>dừng xe, cứu giúp người bị nạn</b> và <b>báo cơ quan chức năng</b> theo luật."
   },
   {
     "id": 195,
@@ -3702,7 +3702,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Người có mặt tại tai nạn: Giúp đỡ/cứu người, báo tin, bảo vệ hiện trường/tài sản, cung cấp thông tin."
+    "hint": "Người có mặt tại hiện trường phải <b>cứu giúp nạn nhân</b>, <b>bảo vệ hiện trường</b> và cung cấp thông tin khi được yêu cầu."
   },
   {
     "id": 196,
@@ -3721,7 +3721,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Sơ cứu người không hô hấp (TNGT): Nằm ngửa, khai thông đường thở, hô hấp nhân tạo."
+    "hint": "Người không còn hô hấp cần được <b>khai thông đường thở</b> và thực hiện <b>hô hấp nhân tạo</b> ngay lập tức."
   },
   {
     "id": 197,
@@ -3740,7 +3740,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Bỏ trốn/không cứu giúp sau tai nạn: Bị nghiêm cấm."
+    "hint": "Bỏ trốn hoặc không cứu giúp người bị nạn là <b>hành vi bị pháp luật nghiêm cấm</b> vì gây hậu quả nghiêm trọng."
   },
   {
     "id": 198,
@@ -3759,7 +3759,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Thấy người đi bộ qua vạch: Giảm tốc độ, nhường đường."
+    "hint": "Người đi bộ trên vạch qua đường luôn được <b>ưu tiên</b>, vì vậy lái xe phải giảm tốc và nhường đường."
   },
   {
     "id": 199,
@@ -3778,7 +3778,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Gặp tai nạn giao thông: Dừng xe, hỗ trợ nạn nhân, báo cơ quan chức năng."
+    "hint": "Gặp tai nạn giao thông, người lái xe có trách nhiệm <b>dừng xe, hỗ trợ nạn nhân</b> và báo cho cơ quan chức năng."
   },
   {
     "id": 200,
@@ -3797,7 +3797,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Ùn tắc (đường 2 chiều, khu dân cư): Kiên nhẫn, tuân thủ hướng dẫn/đèn, đi đúng phần đường, nhường xe ngược chiều."
+    "hint": "Khi ùn tắc, người có văn hóa giao thông sẽ <b>kiên nhẫn chấp hành hướng dẫn</b> và đi đúng phần đường để tránh gây hỗn loạn."
   },
   {
     "id": 201,
@@ -3816,7 +3816,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Ùn tắc (khu dân cư) - THIẾU văn hóa: Bấm còi, đi trên vỉa hè, chen lấn, lấn làn."
+    "hint": "Khi ùn tắc, các hành vi như <b>bấm còi liên tục</b>, <b>đi lên vỉa hè</b>, <b>chen lấn, lấn làn</b> gây mất trật tự và cản trở giao thông, được xem là <b>thiếu văn hóa giao thông</b>."
   },
   {
     "id": 202,
@@ -3835,7 +3835,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Phòng cháy xe: Không lắp thêm thiết bị điện sai thiết kế + Phải tắt khóa điện + Không để chất dễ cháy trong xe."
+    "hint": "Để <b>phòng cháy phương tiện</b>, người lái xe phải tuân thủ thiết kế nhà sản xuất, <b>tắt khóa điện</b>, <b>kiểm tra xe định kỳ</b> và <b>không để chất dễ cháy</b> trong xe."
   },
   {
     "id": 203,
@@ -3854,7 +3854,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Chữa cháy xe (nếu có khả năng dập): Tắt khóa điện + Sử dụng nước."
+    "hint": "Khi xe cháy nhưng còn khả năng dập, cần <b>tắt khóa điện</b>, <b>hô hoán, gọi 114</b> và dùng <b>phương tiện chữa cháy phù hợp</b> theo mức độ cháy để tránh cháy lan."
   },
   {
     "id": 204,
@@ -3873,7 +3873,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Phát hiện xe có dấu hiệu cháy: Bình tĩnh, đưa xe sát lề, tắt khóa điện, thực hiện chữa cháy."
+    "hint": "Phát hiện dấu hiệu cháy, việc đầu tiên là <b>bình tĩnh</b>, <b>đưa xe sát lề an toàn</b> và <b>tắt khóa điện</b> để giảm nguy cơ cháy nổ."
   },
   {
     "id": 205,
@@ -3892,7 +3892,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Sơ cứu người bị bỏng (TNGT): Gọi 115 +  Loại bỏ nguyên nhân gây bỏng + Cho uống nước (nếu tỉnh), giữ ấm (nếu lạnh), đưa đến y tế."
+    "hint": "Sơ cứu bỏng cần <b>gọi 115</b>, <b>loại bỏ nguồn gây bỏng</b>, làm mát vết bỏng đúng cách và <b>đưa nạn nhân đến cơ sở y tế</b> sớm nhất."
   },
   {
     "id": 206,
@@ -3911,7 +3911,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Mô tô tay ga xuống dốc dài: Giữ ga ở mức phù hợp, phanh trước và phanh sau giảm tốc độ."
+    "hint": "Xuống dốc dài bằng xe tay ga phải <b>giữ ga phù hợp</b> và <b>kết hợp phanh trước – sau</b> để kiểm soát tốc độ, tránh trôi xe nguy hiểm."
   },
   {
     "id": 207,
@@ -3930,7 +3930,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Khởi hành xe số tự động: Đạp phanh chân hết cỡ, vào số, nhả phanh đỗ, kiểm tra số rồi mới lăn bánh."
+    "hint": "Khởi hành xe số tự động cần <b>đạp phanh chân hết hành trình</b> trước khi vào số để <b>ngăn xe lao bất ngờ</b> gây mất an toàn."
   },
   {
     "id": 208,
@@ -3949,7 +3949,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Nhả phanh tay: Bóp khóa hãm, đẩy cần về trước; (kẹt) kéo lại đồng thời bóp khóa."
+    "hint": "Nhả phanh tay đúng cách là <b>bóp khóa hãm</b> rồi <b>đẩy cần phanh về trước</b> để tránh hỏng cơ cấu phanh."
   },
   {
     "id": 209,
@@ -3968,7 +3968,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Khởi hành xe số sàn (đường bằng): Kiểm tra an toàn; Đạp côn hết cỡ; Vào số 1; Nhả phanh tay, báo hiệu; Ga đủ, nhả côn từ từ (giữ 1/2 khoảng 3s) rồi nhả hết."
+    "hint": "Khởi hành xe số sàn đúng trình tự giúp <b>tránh chết máy</b> và đảm bảo xe chuyển động êm, đặc biệt cần <b>nhả côn từ từ</b>."
   },
   {
     "id": 210,
@@ -3987,7 +3987,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Quay đầu xe an toàn: Quay đầu xe với tốc độ thấp."
+    "hint": "Quay đầu xe phải <b>đi chậm</b>, quan sát kỹ và <b>báo tín hiệu</b> để các phương tiện khác kịp xử lý, tránh va chạm."
   },
   {
     "id": 211,
@@ -4006,7 +4006,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Tư thế lái đúng: Chân đạp phanh/ga dễ, lưng thẳng, tay nắm vô lăng (trái 9-10h, phải 2-4h)."
+    "hint": "Tư thế lái đúng là <b>lưng thẳng</b>, <b>chân đạp ga – phanh dễ dàng</b>, tay đặt đúng vị trí để kiểm soát xe tốt hơn."
   },
   {
     "id": 212,
@@ -4025,7 +4025,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Lên dốc cao: Về số thấp từ chân dốc."
+    "hint": "Lên dốc cao cần <b>về số thấp từ chân dốc</b> để xe đủ lực kéo và tránh tụt dốc."
   },
   {
     "id": 213,
@@ -4044,7 +4044,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xuống dốc dài: Về số thấp."
+    "hint": "Xuống dốc dài phải <b>về số thấp</b> để tận dụng hãm động cơ, hạn chế <b>rà phanh liên tục</b> gây mất phanh."
   },
   {
     "id": 214,
@@ -4063,7 +4063,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Dừng xe khi xuống dốc: Tín hiệu rẽ phải, sát lề phải."
+    "hint": "Dừng xe khi xuống dốc cần <b>báo hiệu rẽ phải</b> và <b>sát lề phải</b> để không cản trở dòng xe khác."
   },
   {
     "id": 215,
@@ -4082,7 +4082,7 @@
     "a_required": 0,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Đi đường vòng: Giảm tốc độ, về số thấp."
+    "hint": "Khi vào đường vòng phải <b>giảm tốc độ</b> và <b>về số thấp</b> để xe bám đường, tránh trượt hoặc lật xe."
   },
   {
     "id": 216,
@@ -4101,7 +4101,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Rẽ phải ô tô: Tín hiệu rẽ phải sớm, giảm tốc độ."
+    "hint": "Rẽ phải an toàn là <b>bật tín hiệu sớm</b>, <b>giảm tốc độ</b> và quan sát kỹ các hướng trước khi rẽ."
   },
   {
     "id": 217,
@@ -4120,7 +4120,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Rẽ trái ô tô: Tín hiệu rẽ trái sớm, giảm tốc độ."
+    "hint": "Rẽ trái cần <b>bật tín hiệu sớm</b>, <b>giảm tốc</b> và đổi sang <b>làn phù hợp</b> để tránh xung đột giao thông."
   },
   {
     "id": 218,
@@ -4139,7 +4139,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Qua rãnh lớn (số sàn): Về số 1, từ từ và KHÔNG tăng số."
+    "hint": "Qua rãnh lớn phải <b>về số 1</b>, cho xe đi <b>từ từ</b> và <b>không tăng số</b> để tránh chết máy hoặc hỏng gầm."
   },
   {
     "id": 219,
@@ -4158,7 +4158,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Qua đường sắt: (Có chuông/chắn hạ) Dừng an toàn, kéo phanh tay nếu chờ lâu + (Không chuông/chắn) Quan sát, an toàn thì về số thấp, ga nhẹ, không đổi số khi qua."
+    "hint": "Qua đường sắt phải <b>dừng khi có chuông hoặc chắn</b>, nếu không có thì <b>về số thấp</b> và <b>không đổi số</b> khi đang vượt."
   },
   {
     "id": 220,
@@ -4177,7 +4177,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Lái xe tự đổ: Chạy chậm đường xấu + Khi đổ hàng phải chọn vị trí."
+    "hint": "Xe tự đổ cần <b>chạy chậm</b> khi đường xấu và <b>chọn nền đường cứng, phẳng</b> khi đổ hàng để tránh lật xe."
   },
   {
     "id": 221,
@@ -4196,7 +4196,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Tăng số: Không nhìn xuống buồng lái."
+    "hint": "Tăng số phải <b>không nhìn xuống buồng lái</b> để giữ tập trung quan sát đường phía trước."
   },
   {
     "id": 222,
@@ -4215,7 +4215,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Giảm số: Không nhìn xuống buồng lái."
+    "hint": "Giảm số đúng là <b>không nhìn xuống buồng lái</b>, thao tác nhịp nhàng để tránh mất lái."
   },
   {
     "id": 223,
@@ -4234,7 +4234,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Giảm tốc độ xuống dốc dài: Về số thấp."
+    "hint": "Giảm tốc xuống dốc dài cần <b>về số thấp</b> kết hợp phanh để giữ tốc độ ổn định và an toàn."
   },
   {
     "id": 224,
@@ -4253,7 +4253,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Qua đường ngập nước: Ước lượng độ ngập, về số thấp, giữ đều ga, vững tay lái."
+    "hint": "Qua đường ngập nước phải <b>ước lượng độ ngập</b>, <b>về số thấp</b> và <b>giữ đều ga</b> để tránh nước vào động cơ."
   },
   {
     "id": 225,
@@ -4272,7 +4272,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Gặp xe ngược chiều ban đêm: Chuyển đèn xa về gần; không nhìn thẳng đèn xe đối diện, nhìn chếch phải."
+    "hint": "Gặp xe ngược chiều ban đêm phải <b>chuyển đèn chiếu gần</b> và <b>không nhìn thẳng ánh đèn</b> để tránh chói mắt."
   },
   {
     "id": 226,
@@ -4291,7 +4291,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Lái xe đường trơn: Gài cầu (nếu có), đều ga, không lấy nhiều lái/đánh lái ngoặt/phanh gấp."
+    "hint": "Đường trơn cần <b>đi số thấp</b>, <b>giữ đều ga</b> và <b>không phanh gấp</b> để tránh trượt bánh."
   },
   {
     "id": 227,
@@ -4310,7 +4310,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "BRAKE hiển thị thì đang sử dụng phanh đỗ xe (phanh tay)."
+    "hint": "Đèn cảnh báo <b>BRAKE</b> sáng cho biết xe đang <b>sử dụng phanh đỗ</b>."
   },
   {
     "id": 228,
@@ -4329,7 +4329,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Thấy cảnh báo giọt dầu là do áp suất dầu ở mức thấp."
+    "hint": "Biểu tượng giọt dầu cảnh báo <b>áp suất dầu thấp</b>, cần kiểm tra ngay để tránh hỏng động cơ."
   },
   {
     "id": 229,
@@ -4348,7 +4348,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Biểu tượng này báo Cửa xe đóng chưa chặt hoặc có cửa xe chưa đóng."
+    "hint": "Ký hiệu này cho biết <b>cửa xe chưa đóng kín</b>, cần kiểm tra trước khi tiếp tục di chuyển."
   },
   {
     "id": 230,
@@ -4367,7 +4367,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Biểu tượng này báo lái xe hoặc người ngồi ghế trước chưa cài dây an toàn."
+    "hint": "Đèn cảnh báo này nhắc <b>chưa cài dây đai an toàn</b>, bắt buộc phải thắt dây khi xe chạy."
   },
   {
     "id": 231,
@@ -4386,7 +4386,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Biểu tượng này báo xe sắp xếp nhiên liệu."
+    "hint": "Biểu tượng báo <b>sắp hết nhiên liệu</b>, cần đổ xăng kịp thời để tránh xe chết máy."
   },
   {
     "id": 232,
@@ -4405,7 +4405,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Nhiên liệu giảm ô nhiễm: Xăng sinh học, khí sinh học."
+    "hint": "<b>Xăng sinh học và khí sinh học</b> ít phát thải hơn, giúp <b>giảm ô nhiễm môi trường</b>."
   },
   {
     "id": 233,
@@ -4424,7 +4424,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Tiết kiệm nhiên liệu: Bảo dưỡng định kỳ + Kiểm tra áp suất lốp, chạy tốc độ phù hợp."
+    "hint": "Tiết kiệm nhiên liệu bằng cách <b>bảo dưỡng xe định kỳ</b> và <b>chạy đúng áp suất lốp, tốc độ phù hợp</b>."
   },
   {
     "id": 234,
@@ -4443,7 +4443,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Mở cửa xe: Mở hé cửa, an toàn mới mở đủ để xuống."
+    "hint": "Mở cửa xe cần <b>quan sát xung quanh</b> và <b>mở hé cửa</b> trước để tránh va chạm với xe khác."
   },
   {
     "id": 235,
@@ -4462,7 +4462,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Qua đường sắt không rào chắn: Giảm tốc + Nếu có tàu: dừng hẳn chờ tàu qua."
+    "hint": "Qua đường sắt không rào chắn phải <b>giảm tốc, dừng quan sát</b> và chỉ đi khi <b>đảm bảo an toàn</b>."
   },
   {
     "id": 236,
@@ -4481,7 +4481,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Qua đường sắt không rào chắn: dừng, quan sát, an toàn mới qua là ĐÚNG."
+    "hint": "Thao tác dừng – quan sát – chỉ qua khi an toàn tại đường sắt <b>là đúng quy định</b> để phòng tai nạn."
   },
   {
     "id": 237,
@@ -4500,7 +4500,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe số tự động (đường trơn/lầy): Về số thấp, kết hợp phanh chân giảm tốc."
+    "hint": "Xe số tự động đi đường trơn lầy cần <b>về số thấp</b> và <b>dùng phanh chân</b> để kiểm soát xe."
   },
   {
     "id": 238,
@@ -4519,7 +4519,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Điều chỉnh ghế (động cơ đã nổ): Cần số ở N, P, hoặc số 0."
+    "hint": "Điều chỉnh ghế khi xe nổ máy phải để cần số ở <b>N, P hoặc số 0</b> để tránh xe tự di chuyển."
   },
   {
     "id": 239,
@@ -4538,7 +4538,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Lái xe số tự động: Không dùng chân trái, chân phải điều khiển phanh và ga."
+    "hint": "Xe số tự động chỉ dùng <b>chân phải</b> để điều khiển <b>ga và phanh</b>, giúp phản xạ chính xác hơn."
   },
   {
     "id": 240,
@@ -4557,7 +4557,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Sương mù/mưa to: Giảm tốc độ, giữ khoảng cách, bật đèn sương mù và đèn gần."
+    "hint": "Tầm nhìn kém phải <b>giảm tốc</b>, <b>giữ khoảng cách</b> và bật <b>đèn sương mù, đèn chiếu gần</b>."
   },
   {
     "id": 241,
@@ -4576,7 +4576,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Đèn pha xe ngược chiều chói mắt: Giảm tốc độ, vững tay lái, nhìn chếch lề phải."
+    "hint": "Bị chói đèn phải <b>giảm tốc</b>, <b>giữ vững tay lái</b> và <b>nhìn chếch sang phải</b> để định hướng."
   },
   {
     "id": 242,
@@ -4595,7 +4595,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Phanh xe mô tô hiệu quả: Giảm hết ga, dùng đồng thời phanh sau và phanh trước."
+    "hint": "Phanh hiệu quả nhất là <b>giảm hết ga</b> và <b>dùng đồng thời phanh trước – sau</b> để xe dừng ổn định."
   },
   {
     "id": 243,
