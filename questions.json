@@ -2714,7 +2714,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Lắp giám sát hành trình: Xe ô tô kinh doanh vận tải và xe chở người >=8 chỗ, xe đầu kéo, xe cứu thương."
+    "hint": "Luật quy định <b>xe ô tô kinh doanh vận tải</b>, bao gồm xe chở người từ <b>08 chỗ trở lên</b>, xe đầu kéo và xe cứu thương, phải lắp <b>thiết bị giám sát hành trình</b> để quản lý an toàn."
   },
   {
     "id": 144,
@@ -2733,7 +2733,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe gắn máy tối đa 40km/h."
+    "hint": "Xe gắn máy và xe máy chuyên dùng bị giới hạn <b>tốc độ thấp hơn ô tô</b> để bảo đảm an toàn khi tham gia giao thông."
   },
   {
     "id": 145,
@@ -2752,7 +2752,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe cơ giới không bao gồm xe gắn máy: Trong khu vực đông dân cư, đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên: 60km/h."
+    "hint": "Trong <b>khu vực đông dân cư</b>, đường có từ <b>hai làn xe cơ giới trở lên</b> cho phép xe mô tô và ô tô nhỏ chạy tốc độ cao hơn."
   },
   {
     "id": 146,
@@ -2771,7 +2771,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe cơ giới không bao gồm xe gắn máy: Trong khu vực đông dân cư, đường hai chiều; đường một chiều có một làn xe cơ giới: 50km/h."
+    "hint": "Đường <b>một làn xe cơ giới</b> trong khu dân cư yêu cầu <b>giảm tốc độ</b> để tránh xung đột giao thông."
   },
   {
     "id": 147,
@@ -2790,7 +2790,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe cơ giới không bao gồm xe gắn máy: Trong khu vực đông dân cư, đường hai chiều; đường một chiều có một làn xe cơ giới: 50km/h."
+    "hint": "Xe <b>ô tô tải và ô tô chở trên 28 chỗ</b> có kích thước lớn nên bị giới hạn tốc độ thấp hơn để bảo đảm an toàn."
   },
   {
     "id": 148,
@@ -2809,7 +2809,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe cơ giới không bao gồm xe gắn máy: Trong khu vực đông dân cư, đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên: 60km/h."
+    "hint": "Đường <b>đôi hoặc một chiều nhiều làn</b> trong khu dân cư cho phép xe ô tô lớn chạy với tốc độ cao hơn."
   },
   {
     "id": 149,
@@ -2828,7 +2828,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Đường có giải phân cách được xem là đường đôi.<br/>Ngoài khu vực dân cư; đường đôi; đường một chiều có hai làn xe cơ giới trở lên: ô tô kéo rơ moóc 60km/h; mô tô, xe buýt, ôtô đầu kéo: 70km/h; xe trên 29 chỗ, xe tải trên 3,5 tấn: 80km/h; xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 90km/h."
+    "hint": "Ngoài khu dân cư, đường <b>đôi hoặc nhiều làn</b> cho phép xe ô tô nhỏ và tải nhẹ chạy <b>tốc độ cao nhất</b>."
   },
   {
     "id": 150,
@@ -2847,7 +2847,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Đường có giải phân cách được xem là đường đôi.<br/>Ngoài khu vực dân cư; đường đôi; đường một chiều có hai làn xe cơ giới trở lên: ô tô kéo rơ moóc 60km/h; mô tô, xe buýt, ôtô đầu kéo: 70km/h; xe trên 29 chỗ, xe tải trên 3,5 tấn: 80km/h; xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 90km/h."
+    "hint": "Xe <b>chở nhiều người hoặc tải nặng</b> phải chạy chậm hơn xe con để bảo đảm an toàn khi ngoài khu dân cư."
   },
   {
     "id": 151,
@@ -2866,7 +2866,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Đường có giải phân cách được xem là đường đôi.<br/>Ngoài khu vực dân cư; đường đôi; đường một chiều có hai làn xe cơ giới trở lên: ô tô kéo rơ moóc 60km/h; mô tô, xe buýt, ôtô đầu kéo: 70km/h; xe trên 29 chỗ, xe tải trên 3,5 tấn: 80km/h; xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 90km/h."
+    "hint": "Xe buýt, mô tô và ô tô đầu kéo có <b>đặc thù vận hành</b> nên được quy định mức tốc độ trung bình."
   },
   {
     "id": 152,
@@ -2885,7 +2885,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Đường có giải phân cách được xem là đường đôi.<br/>Ngoài khu vực dân cư; đường đôi; đường một chiều có hai làn xe cơ giới trở lên: ô tô kéo rơ moóc 60km/h; mô tô, xe buýt, ôtô đầu kéo: 70km/h; xe trên 29 chỗ, xe tải trên 3,5 tấn: 80km/h; xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 90km/h."
+    "hint": "Xe <b>kéo rơ moóc hoặc xe đặc chủng</b> cần tốc độ thấp hơn để bảo đảm ổn định khi lưu thông."
   },
   {
     "id": 153,
@@ -2904,7 +2904,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Ngoài khu vực dân cư; đường hai chiều; đường một chiều có một làn xe: ô tô kéo rơ moóc 50km/h; mô tô, xe buýt, ôtô đầu kéo: 60km/h; xe trên 29 chỗ, xe tải trên 3,5 tấn: 70km/h; xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 80km/h."
+    "hint": "Đường <b>hai chiều hoặc một làn</b> ngoài khu dân cư vẫn cho phép xe con chạy nhanh hơn nhờ <b>khả năng cơ động</b>."
   },
   {
     "id": 154,
@@ -2923,7 +2923,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Ngoài khu vực dân cư; đường hai chiều; đường một chiều có một làn xe: ô tô kéo rơ moóc 50km/h; mô tô, xe buýt, ôtô đầu kéo: 60km/h; xe trên 29 chỗ, xe tải trên 3,5 tấn: 70km/h; xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 80km/h."
+    "hint": "Xe <b>chở trên 28 chỗ và xe tải nặng</b> bị hạn chế tốc độ do <b>quán tính lớn</b> và quãng phanh dài."
   },
   {
     "id": 155,
@@ -2942,7 +2942,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Ngoài khu vực dân cư; đường hai chiều; đường một chiều có một làn xe: ô tô kéo rơ moóc 50km/h; mô tô, xe buýt, ôtô đầu kéo: 60km/h; xe trên 29 chỗ, xe tải trên 3,5 tấn: 70km/h; xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 80km/h."
+    "hint": "Xe buýt, mô tô và ô tô đầu kéo phải giữ <b>tốc độ trung bình</b> khi lưu thông trên đường hẹp."
   },
   {
     "id": 156,
@@ -2961,7 +2961,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Ngoài khu vực dân cư; đường hai chiều; đường một chiều có một làn xe: ô tô kéo rơ moóc 50km/h; mô tô, xe buýt, ôtô đầu kéo: 60km/h; xe trên 29 chỗ, xe tải trên 3,5 tấn: 70km/h; xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 80km/h."
+    "hint": "Xe <b>kéo rơ moóc và xe chuyên dùng</b> phải chạy chậm để tránh mất kiểm soát trên đường một làn."
   },
   {
     "id": 157,
@@ -2980,7 +2980,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe chở hàng bốn bánh có gắn động cơ: 50km/h."
+    "hint": "Xe <b>chở hàng bốn bánh có gắn động cơ</b> được phép chạy đến <b>50 km/h</b> theo quy định chung."
   },
   {
     "id": 158,
@@ -2999,7 +2999,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Khoảng cách an toàn tối thiểu: 60km/h = 35m; 60 - 80km/h = 55m; 80 - 100km/h = 70m; 100 - 120km/h = 100m."
+    "hint": "Ở tốc độ trên <b>80 km/h</b>, luật yêu cầu giữ <b>khoảng cách lớn</b> để đủ thời gian xử lý tình huống."
   },
   {
     "id": 159,
@@ -3018,7 +3018,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Khoảng cách an toàn tối thiểu: 60km/h = 35m; 60 - 80km/h = 55m; 80 - 100km/h = 70m; 100 - 120km/h = 100m."
+    "hint": "Tốc độ càng cao thì <b>khoảng cách an toàn</b> bắt buộc càng lớn để tránh va chạm dây chuyền."
   },
   {
     "id": 160,
@@ -3037,7 +3037,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Khoảng cách an toàn tối thiểu: 60km/h = 35m; 60 - 80km/h = 55m; 80 - 100km/h = 70m; 100 - 120km/h = 100m."
+    "hint": "Trong khoảng <b>60–80 km/h</b>, người lái xe phải giữ khoảng cách phù hợp để bảo đảm an toàn."
   },
   {
     "id": 161,
@@ -3056,7 +3056,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Khoảng cách an toàn tối thiểu: 60km/h = 35m; 60 - 80km/h = 55m; 80 - 100km/h = 70m; 100 - 120km/h = 100m."
+    "hint": "Khi chạy đúng <b>60 km/h</b>, luật quy định khoảng cách tối thiểu để đủ thời gian phanh xe."
   },
   {
     "id": 162,
@@ -3075,7 +3075,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Chủ động giữ khoảng cách và bảo đảm khoảng cách an toàn."
+    "hint": "Dưới <b>60 km/h</b>, người lái xe phải <b>chủ động điều chỉnh khoảng cách</b> theo tình hình thực tế."
   },
   {
     "id": 163,
@@ -3094,7 +3094,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Quan sát biển báo nguy hiểm và cảnh báo trên đường."
+    "hint": "Biển <b>nguy hiểm và cảnh báo</b> báo trước rủi ro, buộc người lái xe phải giảm tốc để phòng tai nạn."
   },
   {
     "id": 164,
@@ -3113,7 +3113,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe đưa đón học sinh: Được ưu tiên phân luồng, điều tiết, bố trí nơi dừng/đỗ."
+    "hint": "Xe đưa đón học sinh được <b>ưu tiên tổ chức giao thông</b> nhằm bảo vệ an toàn cho trẻ em."
   },
   {
     "id": 165,
@@ -3132,7 +3132,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Quan sát, giảm tốc độ/dừng khi: Vạch/nơi người đi bộ qua đường, giao nhau, đường hẹp/vòng/dốc, khu vực trường học/bệnh viện/chợ/công trình."
+    "hint": "Luật yêu cầu <b>giảm tốc hoặc dừng xe</b> tại mọi vị trí tiềm ẩn nguy hiểm cho người đi bộ và giao thông."
   },
   {
     "id": 166,
@@ -3151,7 +3151,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Không có biển báo tốc độ/khoảng cách: Vẫn phải tuân thủ quy định chung về tốc độ, khoảng cách."
+    "hint": "Dù không có biển báo, người lái xe vẫn phải <b>tuân thủ tốc độ và khoảng cách an toàn</b> theo quy định chung."
   },
   {
     "id": 167,
@@ -3170,7 +3170,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Gặp xe buýt dừng đón/trả khách: Quan sát, giảm tốc độ hoặc dừng lại an toàn."
+    "hint": "Xe buýt dừng đón trả khách có nguy cơ cao, người đi mô tô phải <b>giảm tốc hoặc dừng lại</b> để tránh tai nạn."
   },
   {
     "id": 168,
@@ -3189,7 +3189,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Vận chuyển ô tô khách: Đón/trả đúng nơi, hướng dẫn an toàn, vệ sinh, đúng lịch trình, không chở nóc/khoang hành lý/đu bám."
+    "hint": "Vận tải hành khách phải <b>đón trả đúng nơi</b>, bảo đảm an toàn và <b>không chở sai quy định</b>."
   },
   {
     "id": 169,
@@ -3208,7 +3208,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Cấm trong vận tải: Chở hàng cấm, hàng nguy hiểm (trái phép/không đúng quy định), động vật hoang dã."
+    "hint": "Luật <b>nghiêm cấm</b> vận chuyển hàng cấm, hàng nguy hiểm trái phép và động vật hoang dã."
   },
   {
     "id": 170,
@@ -3227,7 +3227,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Vận tải khách cấm: Đe dọa, xúc phạm, tranh giành khách; cưỡng ép dịch vụ; chuyển tải/xuống khách trốn tránh quá tải."
+    "hint": "Vận tải hành khách bị cấm các hành vi <b>đe dọa, cưỡng ép</b> và gian lận để tránh kiểm soát quá tải."
   },
   {
     "id": 171,
