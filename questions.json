@@ -1916,7 +1916,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe hỏng/tai nạn trên đường sắt: Báo hiệu dừng tàu ngay, đảm bảo an toàn."
+    "hint": "Khi xe mắc kẹt trên đường sắt, luật yêu cầu <b>báo hiệu dừng tàu ngay</b> để tránh va chạm và bảo đảm an toàn tính mạng."
   },
   {
     "id": 102,
@@ -1935,7 +1935,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Dừng xe ở đường sắt khi: Có hiệu lệnh nhân viên, đèn đỏ/chuông, chắn đang đóng/đã đóng."
+    "hint": "Tại đường ngang đường sắt, người đi đường <b>bắt buộc dừng xe</b> khi có bất kỳ tín hiệu cảnh báo hợp pháp nào để phòng tai nạn."
   },
   {
     "id": 103,
@@ -1954,7 +1954,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Trong hầm: Bật đèn gần (xe cơ giới/chuyên dùng), đèn/phát sáng (xe thô sơ), không dừng/đỗ (trừ sự cố)."
+    "hint": "Trong hầm đường bộ, việc <b>bật đèn chiếu gần</b> và <b>không dừng đỗ</b> giúp bảo đảm tầm nhìn và tránh ùn tắc nguy hiểm."
   },
   {
     "id": 104,
@@ -1973,7 +1973,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Kéo xe hỏng phanh: Nối bằng thanh nối cứng."
+    "hint": "Khi xe được kéo <b>mất hiệu lực phanh</b>, luật bắt buộc dùng <b>thanh nối cứng</b> để kiểm soát an toàn."
   },
   {
     "id": 105,
@@ -1992,7 +1992,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Kéo rơ moóc: Phải phù hợp thiết kế, kết nối chắc chắn, an toàn."
+    "hint": "Xe kéo rơ moóc phải <b>phù hợp thiết thiết kế</b> và <b>kết nối chắc chắn</b> để tránh mất an toàn khi lưu thông."
   },
   {
     "id": 106,
@@ -2011,7 +2011,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe được kéo: Người lái, hệ thống lái còn hiệu lực, nối chắc chắn (thanh cứng nếu hỏng phanh), biển báo/đèn vàng."
+    "hint": "Xe được kéo phải còn <b>hệ thống lái</b>, có người điều khiển và <b>báo hiệu rõ ràng</b> để các xe khác nhận biết."
   },
   {
     "id": 107,
@@ -2030,7 +2030,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Giảm tốc độ/dừng lại khi: Cảnh báo nguy hiểm, chướng ngại vật, chuyển hướng, tầm nhìn hạn chế, cầu cống hẹp, vật nuôi, điểm dừng xe có khách."
+    "hint": "Luật yêu cầu <b>giảm tốc độ hoặc dừng xe</b> trong mọi tình huống có nguy cơ gây mất an toàn cho người và phương tiện."
   },
   {
     "id": 108,
@@ -2049,7 +2049,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Không vượt (1 làn/chiều): Có chướng ngại vật phía trước, hoặc xe trước đang xin vượt."
+    "hint": "Đường chỉ có <b>một làn mỗi chiều</b> thì không được vượt khi phía trước không bảo đảm an toàn."
   },
   {
     "id": 109,
@@ -2068,7 +2068,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Vượt phải khi: Xe trước rẽ trái, hoặc xe chuyên dùng đang làm việc (không thể vượt trái)."
+    "hint": "Chỉ được vượt bên phải khi <b>xe trước rẽ trái</b> hoặc không thể vượt bên trái theo quy định."
   },
   {
     "id": 110,
@@ -2087,7 +2087,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe máy bị xin vượt (an toàn): Giảm tốc độ, báo hiệu rẽ phải, đi sát phải, không cản trở."
+    "hint": "Khi đủ điều kiện an toàn, người lái xe phải <b>giảm tốc và nhường đường</b>, tuyệt đối không cản trở xe xin vượt."
   },
   {
     "id": 111,
@@ -2106,7 +2106,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Cấm vào cao tốc: Xe tốc độ thiết kế < tốc độ tối thiểu cao tốc, xe 4 bánh gắn động cơ (chở người/hàng), mô tô, gắn máy, xe thô sơ, người đi bộ."
+    "hint": "Đường cao tốc chỉ dành cho phương tiện đạt <b>tốc độ thiết kế tối thiểu</b>, các đối tượng khác bị cấm để bảo đảm an toàn."
   },
   {
     "id": 112,
@@ -2125,7 +2125,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe ưu tiên đi ngược chiều trên cao tốc: Chỉ trên làn dừng khẩn cấp."
+    "hint": "Xe ưu tiên chỉ được đi ngược chiều trên <b>làn dừng khẩn cấp</b> để không gây nguy hiểm cho dòng xe chính."
   },
   {
     "id": 113,
@@ -2144,7 +2144,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Trên cao tốc cấm: Dừng/đỗ trên đường xe chạy (trừ bất khả kháng), lùi xe, quay đầu xe."
+    "hint": "Trên cao tốc, các hành vi <b>lùi xe, quay đầu</b> hoặc dừng đỗ sai quy định đều bị nghiêm cấm."
   },
   {
     "id": 114,
@@ -2163,7 +2163,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Sự cố trên cao tốc: Vào làn dừng khẩn cấp, đèn khẩn cấp, đặt biển/đèn báo sau xe (tối thiểu 150m), báo CSGT/quản lý đường."
+    "hint": "Khi xe hỏng trên cao tốc, phải <b>đưa vào làn dừng khẩn cấp</b> và <b>cảnh báo từ xa</b> để tránh tai nạn."
   },
   {
     "id": 115,
@@ -2182,7 +2182,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Vượt quá lối ra cao tốc: Tiếp tục đi, rẽ ở lối ra tiếp theo."
+    "hint": "Nếu lỡ lối ra, người lái xe phải <b>tiếp tục di chuyển</b>, tuyệt đối không lùi hay quay đầu trên cao tốc."
   },
   {
     "id": 116,
@@ -2201,7 +2201,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Trên cao tốc KHÔNG được chạy trên làn dừng khẩn cấp trừ xe ưu tiên."
+    "hint": "Làn dừng khẩn cấp chỉ dành cho <b>tình huống khẩn cấp</b> và xe ưu tiên, không được dùng để tránh ùn tắc."
   },
   {
     "id": 117,
@@ -2220,7 +2220,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Nhập làn cao tốc: Tín hiệu, nhường đường, (nếu có làn tăng tốc thì chạy trên đó trước)."
+    "hint": "Khi nhập cao tốc, phải <b>có tín hiệu</b>, <b>nhường xe đang chạy</b> và tận dụng làn tăng tốc nếu có."
   },
   {
     "id": 118,
@@ -2239,7 +2239,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng C1 = 18 tuổi; Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi).<br/>Xe dưới 50cm3: 16 tuổi; Hạng A1, A, B1, B, C1: 18 tuổi;<br/>Hạng C, BE: 21 tuổi;<br/>Hạng D1, D2, C1E, CE: 24 tuổi;<br/>Hạng D, D1E, D2E, DE: 27 tuổi."
+    "hint": "Luật quy định <b>từ 18 tuổi</b> mới được cấp GPLX hạng C1 để bảo đảm đủ năng lực điều khiển xe tải."
   },
   {
     "id": 119,
@@ -2258,7 +2258,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng A1 và B là 18 tuổi. Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi).<br/>Xe dưới 50cm3: 16 tuổi; Hạng A1, A, B1, B, C1: 18 tuổi;<br/>Hạng C, BE: 21 tuổi;<br/>Hạng D1, D2, C1E, CE: 24 tuổi;<br/>Hạng D, D1E, D2E, DE: 27 tuổi."
+    "hint": "Các hạng GPLX phổ thông như <b>A1 và B</b> chỉ được cấp khi người lái đủ <b>18 tuổi</b>."
   },
   {
     "id": 120,
@@ -2277,7 +2277,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng D là 27 tuổi. Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi).<br/>Xe dưới 50cm3: 16 tuổi; Hạng A1, A, B1, B, C1: 18 tuổi;<br/>Hạng C, BE: 21 tuổi;<br/>Hạng D1, D2, C1E, CE: 24 tuổi;<br/>Hạng D, D1E, D2E, DE: 27 tuổi."
+    "hint": "Xe chở khách lớn yêu cầu kinh nghiệm cao nên GPLX <b>hạng D</b> chỉ cấp từ <b>27 tuổi</b>."
   },
   {
     "id": 121,
@@ -2296,7 +2296,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Độ tuổi tối đa người lái xe ô tô trên 29 chỗ: Nam 57 tuổi và nữ 55 tuổi."
+    "hint": "Luật giới hạn <b>tuổi tối đa</b> để bảo đảm sức khỏe và an toàn khi lái xe chở nhiều hành khách."
   },
   {
     "id": 122,
@@ -2315,7 +2315,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng D2 là 24 tuổi. Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi).<br/>Xe dưới 50cm3: 16 tuổi; Hạng A1, A, B1, B, C1: 18 tuổi;<br/>Hạng C, BE: 21 tuổi;<br/>Hạng D1, D2, C1E, CE: 24 tuổi;<br/>Hạng D, D1E, D2E, DE: 27 tuổi."
+    "hint": "GPLX <b>hạng D2</b> chỉ được cấp từ <b>24 tuổi</b> do đặc thù điều khiển xe chở nhiều người."
   },
   {
     "id": 123,
@@ -2334,7 +2334,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe gắn máy từ 16 tuổi;"
+    "hint": "Người từ <b>16 đến dưới 18 tuổi</b> chỉ được điều khiển <b>xe gắn máy</b> theo luật."
   },
   {
     "id": 124,
@@ -2353,7 +2353,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng A1 không được chạy mô tô ba bánh."
+    "hint": "GPLX <b>hạng A1</b> không cho phép điều khiển <b>mô tô ba bánh</b>."
   },
   {
     "id": 125,
@@ -2372,7 +2372,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng A1 lái xe mô tô hai bánh đến 125 cm3 hoặc đến 11 kW."
+    "hint": "Từ 01/01/2025, GPLX <b>hạng A1</b> chỉ áp dụng cho mô tô hai bánh trong giới hạn công suất."
   },
   {
     "id": 126,
@@ -2391,7 +2391,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng A lái xe mô tô hai bánh trên 125 cm3 hoặc trên 11 kW và xe hạng A1. Nên cả 2 ý là đáp án đúng."
+    "hint": "GPLX <b>hạng A</b> cho phép điều khiển mọi mô tô hai bánh, bao gồm cả xe dung tích lớn."
   },
   {
     "id": 127,
@@ -2410,7 +2410,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng B: đến 08 chỗ (không kể lái xe); ô tô tải và chuyên dùng đến 3.500 kg; kéo rơ moóc đến 750 kg;"
+    "hint": "GPLX <b>hạng B</b> áp dụng cho ô tô con và xe tải nhẹ trong giới hạn luật định."
   },
   {
     "id": 128,
@@ -2429,7 +2429,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng C1: ô tô tải và chuyên dùng trên 3.500 kg đến 7.500 kg và lái xe Hạng B."
+    "hint": "GPLX <b>hạng C1</b> dùng cho xe tải trung, vượt mức hạng B nhưng chưa đến hạng C."
   },
   {
     "id": 129,
@@ -2448,7 +2448,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng C: ô tô tải và chuyên dùng trên 7.500 kg và lái xe Hạng B, C1."
+    "hint": "GPLX <b>hạng C</b> cho phép điều khiển xe tải nặng và bao gồm quyền của hạng thấp hơn."
   },
   {
     "id": 130,
@@ -2467,7 +2467,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng D1: trên 08 chỗ đến 16 chỗ (không kể lái xe); và lái xe Hạng B, C1, C;"
+    "hint": "GPLX <b>hạng D1</b> dành cho xe chở người cỡ trung, yêu cầu kinh nghiệm lái xe trước đó."
   },
   {
     "id": 131,
@@ -2486,7 +2486,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng D2: trên 16 chỗ đến 29 chỗ (không kể lái xe); và lái xe hạng B, C1, C, D1;"
+    "hint": "GPLX <b>hạng D2</b> cho phép lái xe chở nhiều hành khách hơn D1."
   },
   {
     "id": 132,
@@ -2505,7 +2505,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng D: trên 29 chỗ (không kể lái xe); xe giường nằm; và lái xe hạng B, C1, C, D1, D2;"
+    "hint": "GPLX <b>hạng D</b> áp dụng cho xe khách lớn và xe giường nằm."
   },
   {
     "id": 133,
@@ -2524,7 +2524,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng BE: lái xe hạng B kéo rơ moóc trên 750kg."
+    "hint": "GPLX <b>hạng BE</b> cho phép xe hạng B <b>kéo rơ moóc nặng</b>."
   },
   {
     "id": 134,
@@ -2543,7 +2543,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng CE: lái xe hạng C kéo rơ moóc trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc;"
+    "hint": "GPLX <b>hạng CE</b> dành cho xe tải nặng kéo rơ moóc hoặc sơ mi rơ moóc."
   },
   {
     "id": 135,
@@ -2562,7 +2562,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hạng DE: lái xe hạng D kéo rơ moóc trên 750 kg; xe ô tô chở khách nối toa."
+    "hint": "GPLX <b>hạng DE</b> áp dụng cho xe khách lớn kéo rơ moóc."
   },
   {
     "id": 136,
@@ -2581,7 +2581,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Người tập lái: Thực hành trên xe tập lái, đúng tuyến, có giáo viên bảo trợ."
+    "hint": "Người tập lái chỉ được tham gia giao thông khi <b>có giáo viên bảo trợ</b> và đi đúng tuyến tập lái."
   },
   {
     "id": 137,
@@ -2600,7 +2600,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Điều kiện lái xe: Đủ tuổi, sức khỏe, GPLX còn điểm/hiệu lực, phù hợp loại xe (trừ xe gắn máy)."
+    "hint": "Người lái xe phải <b>đủ tuổi, đủ sức khỏe</b> và có GPLX hợp lệ theo loại xe."
   },
   {
     "id": 138,
@@ -2619,7 +2619,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Mang theo khi lái xe: Đăng ký xe (hoặc bản sao), GPLX, Kiểm định, Bảo hiểm TNDS; hoặc xuất trình qua VNeID."
+    "hint": "Luật yêu cầu mang theo <b>đầy đủ giấy tờ xe</b> hoặc xuất trình qua định danh điện tử."
   },
   {
     "id": 139,
@@ -2638,7 +2638,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Thu hồi GPLX: Không đủ sức khỏe, cấp sai, quá hạn tạm giữ/phạt không đến nhận (không lý do chính đáng)."
+    "hint": "GPLX bị thu hồi khi <b>cấp sai, không đủ sức khỏe</b> hoặc không chấp hành quyết định xử phạt."
   },
   {
     "id": 140,
@@ -2657,7 +2657,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Phục hồi điểm GPLX (chưa hết điểm): Không bị trừ điểm trong 12 tháng (từ lần trừ gần nhất) -> phục hồi đủ 12 điểm."
+    "hint": "Nếu không vi phạm trong <b>12 tháng</b>, GPLX chưa hết điểm sẽ được <b>phục hồi đủ điểm</b>."
   },
   {
     "id": 141,
@@ -2676,7 +2676,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Phục hồi điểm GPLX (đã hết điểm): Sau ít nhất 6 tháng, kiểm tra kiến thức pháp luật đạt -> phục hồi đủ 12 điểm."
+    "hint": "GPLX đã hết điểm chỉ được phục hồi khi <b>thi lại kiến thức luật</b> theo quy định."
   },
   {
     "id": 142,
@@ -2695,7 +2695,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Chưa thu hồi đăng ký/biển số xe (sau bán/cho): Vẫn chịu trách nhiệm chủ xe."
+    "hint": "Chưa làm thủ tục thu hồi đăng ký xe thì <b>người đứng tên vẫn chịu trách nhiệm pháp lý</b>."
   },
   {
     "id": 143,
