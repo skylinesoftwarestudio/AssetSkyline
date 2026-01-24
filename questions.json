@@ -5336,7 +5336,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Ly hợp (côn): Truyền hoặc ngắt truyền động từ động cơ đến hộp số."
+    "hint": "Ly hợp (côn) có nhiệm vụ <b>ngắt hoặc nối truyền động</b> giữa động cơ và hộp số để xe khởi hành, sang số an toàn."
   },
   {
     "id": 282,
@@ -5355,7 +5355,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hộp số ô tô: Giúp xe lùi."
+    "hint": "Hộp số giúp <b>thay đổi lực kéo</b>, <b>cắt truyền động</b> khi cần và cho phép xe <b>chạy lùi</b> theo đúng thiết kế."
   },
   {
     "id": 283,
@@ -5374,7 +5374,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hệ thống lái: Thay đổi hướng chuyển động hoặc giữ xe ổn định."
+    "hint": "Hệ thống lái dùng để <b>điều khiển hướng chuyển động</b> và giúp xe <b>giữ ổn định</b> khi đi thẳng."
   },
   {
     "id": 284,
@@ -5393,7 +5393,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hệ thống phanh: Giảm tốc độ, dừng xe, giữ xe đứng yên trên dốc."
+    "hint": "Hệ thống phanh có tác dụng <b>giảm tốc, dừng xe</b> và <b>giữ xe đứng yên</b>, đặc biệt khi dừng trên dốc."
   },
   {
     "id": 285,
@@ -5412,7 +5412,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Đèn phanh mô tô: Cảnh báo xe sau (đang giảm tốc) + Định vị ban đêm."
+    "hint": "Đèn phanh dùng để <b>cảnh báo xe phía sau</b> khi giảm tốc và giúp <b>nhận biết xe</b> vào ban đêm."
   },
   {
     "id": 286,
@@ -5526,7 +5526,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Để tích trữ điện năng cung cấp cho các phụ tải khi máy phát chưa làm việc."
+    "hint": "Ắc quy có nhiệm vụ <b>tích trữ điện</b> và <b>cung cấp điện</b> khi động cơ chưa hoạt động."
   },
   {
     "id": 292,
@@ -5545,7 +5545,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Để phát điện năng cung cấp cho các phụ tải làm việc và nạp điện cho ắc quy."
+    "hint": "Máy phát điện tạo ra <b>điện năng</b> cho các thiết bị trên xe và <b>sạc lại ắc quy</b> khi động cơ chạy."
   },
   {
     "id": 293,
@@ -5564,7 +5564,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Dây đai giữ chặt người lái và hành khách trên ghế ngồi khi xe ô tô đột ngột dừng lại."
+    "hint": "Dây đai an toàn giúp <b>giữ cố định người ngồi</b>, giảm nguy cơ chấn thương khi xe dừng đột ngột."
   },
   {
     "id": 294,
@@ -5583,7 +5583,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Túi khí giúp giảm khả năng va đập và hấp thụ một phần lực va đập."
+    "hint": "Túi khí giúp <b>giảm lực va đập</b> và <b>bảo vệ các bộ phận quan trọng</b> của cơ thể khi tai nạn xảy ra."
   },
   {
     "id": 295,
