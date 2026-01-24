@@ -947,7 +947,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Dùng còi để báo  tình huống mất an toàn."
+    "hint": "Chỉ được <b>sử dụng còi</b> để <b>báo nguy hiểm</b> hoặc <b>báo hiệu xin vượt</b> khi cần thiết."
   },
   {
     "id": 51,
@@ -966,7 +966,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Chỉ bật đèn chiếu gần trong khu dân cư."
+    "hint": "Trong khu dân cư có chiếu sáng, chỉ được bật <b>đèn chiếu gần (đèn cốt)</b>."
   },
   {
     "id": 52,
@@ -985,7 +985,7 @@
     "a_required": 1,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Cấm cầm và sử dụng điện thoại khi đang tham gia giao thông."
+    "hint": "Pháp luật <b>cấm cầm và sử dụng điện thoại</b> hoặc thiết bị điện tử khi đang điều khiển phương tiện."
   },
   {
     "id": 53,
@@ -1004,7 +1004,7 @@
     "a_required": 1,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Cầu hẹp có 1 làn đường không được vượt."
+    "hint": "Không được vượt xe tại <b>cầu hẹp một làn</b>, <b>nơi giao nhau</b>, <b>đường sắt giao nhau</b> hoặc <b>khi gặp xe ưu tiên</b>."
   },
   {
     "id": 54,
@@ -1023,7 +1023,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Cấm quay đầu xe trên cầu, đường hẹp."
+    "hint": "Pháp luật <b>cấm quay đầu xe</b> tại <b>cầu, gầm cầu, đường hẹp, đường cong khuất tầm nhìn, cao tốc</b>."
   },
   {
     "id": 55,
@@ -1042,7 +1042,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Không quay đầu xe trên cầu."
+    "hint": "Không được <b>quay đầu xe</b> trên <b>cầu, đường cao tốc, đường hẹp</b> hoặc <b>nơi giao nhau với đường sắt</b>."
   },
   {
     "id": 56,
@@ -1061,7 +1061,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Cho xe chuyển hướng phải quan sát, giảm tốc độ và chuyền dần."
+    "hint": "Chuyển hướng phải <b>quan sát</b>, <b>giảm tốc độ</b>, <b>bật tín hiệu</b> và <b>chuyển làn từ từ</b> khi an toàn."
   },
   {
     "id": 57,
@@ -1080,7 +1080,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Bật tín hiệu đèn khi thay đổi làn đường."
+    "hint": "Khi chuyển làn đường phải <b>bật đèn tín hiệu trước khi chuyển làn</b>."
   },
   {
     "id": 58,
@@ -1099,7 +1099,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Không lùi xe ở đường một chiều, nơi giao nhau hoặc tầm nhìn bị che khuất."
+    "hint": "Không được <b>lùi xe</b> tại <b>đường một chiều</b>, <b>nơi giao nhau</b>, <b>cao tốc</b> hoặc <b>tầm nhìn bị che khuất</b>."
   },
   {
     "id": 59,
@@ -1118,7 +1118,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Không dừng, đỗ xe: miệng cống, hầm, phạm vi an toàn đường sắt."
+    "hint": "Không được <b>dừng, đỗ xe</b> trên <b>miệng cống, hầm kỹ thuật</b> và <b>phạm vi an toàn đường sắt</b>."
   },
   {
     "id": 60,
@@ -1137,7 +1137,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Dừng xe, đỗ xe cách lề đường, hè phố không quá 0,25 mét."
+    "hint": "Khi dừng, đỗ xe sát lề phải, bánh xe gần nhất <b>không cách lề quá 0,25m</b>."
   },
   {
     "id": 61,
@@ -1156,7 +1156,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Dừng xe, đỗ xe trên đường hẹp cách xe khác 20 mét."
+    "hint": "Dừng, đỗ xe trên đường hẹp phải cách xe đối diện <b>ít nhất 20 mét</b> để bảo đảm an toàn."
   },
   {
     "id": 62,
@@ -1175,7 +1175,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Không được dừng, đỗ xe song song xe khác, nơi đường cong, dốc khuất tầm nhìn, bên trái đường một chiều."
+    "hint": "Không được <b>dừng, đỗ xe song song</b> với xe khác, <b>đường cong, đầu dốc khuất tầm nhìn</b> hoặc <b>bên trái đường một chiều</b>."
   },
   {
     "id": 63,
@@ -1194,7 +1194,7 @@
     "a_required": 1,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Xe mô tô, xe gắn máy không được kéo đẩy xe khác."
+    "hint": "Xe mô tô, xe gắn máy <b>không được kéo hoặc đẩy</b> phương tiện khác khi tham gia giao thông."
   },
   {
     "id": 64,
@@ -1213,7 +1213,7 @@
     "a_required": 1,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Xe mô tô, xe gắn máy không được buông cả 2 tay."
+    "hint": "Xe mô tô, xe gắn máy <b>không được buông cả hai tay</b>, <b>đứng, nằm khi lái</b> hoặc <b>quệt chân chống xuống đường</b>."
   },
   {
     "id": 65,
@@ -1232,7 +1232,7 @@
     "a_required": 1,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Xe mô tô, xe gắn máy không được buông cả 2 tay."
+    "hint": "Pháp luật <b>cấm buông hai tay</b>, <b>kéo đẩy xe khác</b> và <b>quệt vật xuống đường</b> khi xe đang chạy."
   },
   {
     "id": 66,
@@ -1251,7 +1251,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Người ĐƯỢC CHỞ trên xe mô tô, xe gắn máy không được mang vác đồ cồng kềnh và bám kéo đẩy xe khác."
+    "hint": "Người được chở <b>không được mang vác cồng kềnh</b> và <b>không được bám, kéo, đẩy xe khác</b>."
   },
   {
     "id": 67,
@@ -1270,7 +1270,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Người ĐƯỢC CHỞ trên xe mô tô, xe gắn máy không được mang vác đồ cồng kềnh và bám kéo đẩy xe khác."
+    "hint": "Người được chở trên xe mô tô <b>không được bám, kéo hoặc đẩy</b> phương tiện khác trong mọi trường hợp."
   },
   {
     "id": 68,
@@ -1289,7 +1289,7 @@
     "a_required": 1,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia."
+    "hint": "Người lái và người ngồi sau <b>phải đội mũ bảo hiểm đạt chuẩn</b> và <b>cài quai đúng quy cách</b>."
   },
   {
     "id": 69,
@@ -1308,7 +1308,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe mô tô, xe gắn máy chỉ được phép chở tối đa 2 người khi chờ người đi cấp cứu."
+    "hint": "Xe mô tô chỉ được chở <b>tối đa hai người</b> khi <b>cấp cứu, áp giải, chở trẻ dưới 12 tuổi</b> hoặc <b>người già yếu, khuyết tật</b>."
   },
   {
     "id": 70,
@@ -1327,7 +1327,7 @@
     "a_required": 1,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Cấm tất cả hành vi nguy hiểm: dàn hàng, kéo đẩy, buông tay, chở cồng kềnh, thay người lái khi xe chạy."
+    "hint": "Pháp luật <b>cấm mọi hành vi nguy hiểm</b> như <b>dàn hàng ngang, kéo đẩy, buông tay, chở cồng kềnh</b>."
   },
   {
     "id": 71,
@@ -1346,7 +1346,7 @@
     "a_required": 1,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Cấm dàn hàng ngang, vào đường người đi bộ, dùng ô; thiết bị âm thanh (trừ trợ thính)."
+    "hint": "Xe mô tô <b>không được đi dàn hàng ngang</b>, <b>không vào phần đường người đi bộ</b>, <b>không dùng ô, thiết bị âm thanh</b>."
   },
   {
     "id": 72,
@@ -1365,7 +1365,7 @@
     "a_required": 1,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Không được: đi dàn hàng ngang, vào đường người đi bộ."
+    "hint": "Không được <b>đi dàn hàng ngang</b> và <b>đi vào phần đường dành cho người đi bộ</b>."
   },
   {
     "id": 73,
@@ -1384,7 +1384,7 @@
     "a_required": 0,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Người được chở trên xe máy không được dùng ô."
+    "hint": "Người được chở trên xe mô tô <b>không được sử dụng ô</b> khi tham gia giao thông."
   },
   {
     "id": 74,
@@ -1403,7 +1403,7 @@
     "a_required": 0,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Người ngồi sau xe máy không được kéo theo xe đạp."
+    "hint": "Người ngồi sau xe mô tô <b>không được kéo theo xe đạp</b>."
   },
   {
     "id": 75,
@@ -1422,7 +1422,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Người ngồi sau không đội mũ bảo hiểm: Phạt cả người lái và người ngồi sau."
+    "hint": "Người được chở <b>không đội mũ bảo hiểm</b> hoặc <b>không cài quai</b> thì <b>bị xử phạt</b> theo quy định."
   },
   {
     "id": 76,
@@ -1441,7 +1441,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Lái xe mô tô an toàn: Đội mũ đúng chuẩn, cài quai, không dùng ô, điện thoại, thiết bị âm thanh (trừ trợ thính)."
+    "hint": "Lái xe mô tô an toàn: <b>đội mũ đạt chuẩn</b>, <b>cài quai</b>, <b>không dùng ô, điện thoại, thiết bị âm thanh</b> (trừ trợ thính)."
   },
   {
     "id": 77,
@@ -1460,7 +1460,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xuống phà: Xe cơ giới, xe máy chuyên dùng xuống trước; xe thô sơ, người đi bộ xuống sau."
+    "hint": "Xuống phà: <b>xe cơ giới, xe máy chuyên dùng xuống trước</b>; <b>xe thô sơ, người đi bộ xuống sau</b>."
   },
   {
     "id": 78,
@@ -1479,7 +1479,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Đi đường có nhiều làn: Đi trong 1 làn, chuyển làn nơi cho phép, tín hiệu, quan sát an toàn."
+    "hint": "Đường nhiều làn: <b>đi đúng một làn</b>, <b>chỉ chuyển làn nơi cho phép</b>, <b>bật tín hiệu và quan sát an toàn</b>."
   },
   {
     "id": 79,
@@ -1498,7 +1498,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Đường 1 chiều nhiều làn: Xe thô sơ đi phải trong cùng, xe cơ giới/chuyên dùng đi làn trái."
+    "hint": "Đường một chiều: <b>xe thô sơ đi làn phải trong cùng</b>; <b>xe cơ giới đi làn trái</b>."
   },
   {
     "id": 80,
@@ -1517,7 +1517,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Vượt xe ban đêm (22h-5h) trong khu dân cư: Chỉ báo hiệu bằng đèn."
+    "hint": "Vượt xe ban đêm (22h–05h) trong khu dân cư: <b>chỉ được báo hiệu bằng đèn</b>."
   },
   {
     "id": 81,
@@ -1536,7 +1536,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe sau xin vượt (an toàn): Giảm tốc độ, có tín hiệu rẽ phải, đi sát phải, không cản trở."
+    "hint": "Xe sau xin vượt (đủ an toàn): <b>giảm tốc độ</b>, <b>bật tín hiệu rẽ phải</b>, <b>đi sát lề phải</b>, <b>không cản trở</b>."
   },
   {
     "id": 82,
@@ -1555,7 +1555,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe sau xin vượt (không an toàn): Có tín hiệu rẽ trái báo chưa an toàn không được vượt."
+    "hint": "Xe sau xin vượt (chưa an toàn): <b>bật tín hiệu rẽ trái</b> để <b>báo chưa được vượt</b>."
   },
   {
     "id": 83,
@@ -1574,7 +1574,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Chuyển hướng an toàn: Nhường đường người đi bộ, xe thô sơ, xe ngược chiều; không gây trở ngại.”"
+    "hint": "Khi chuyển hướng phải <b>nhường đường</b> cho <b>người đi bộ</b>, <b>xe thô sơ</b>, <b>xe ngược chiều</b> và chỉ đi khi an toàn."
   },
   {
     "id": 84,
@@ -1593,7 +1593,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Trước khi chuyển hướng: Quan sát, giảm tốc độ, tín hiệu rẽ, chuyển làn từ từ, không gây trở ngại."
+    "hint": "Trước khi chuyển hướng: <b>quan sát</b>, <b>giảm tốc độ</b>, <b>bật tín hiệu</b>, <b>chuyển làn từ từ</b>, <b>không gây cản trở</b>."
   },
   {
     "id": 85,
@@ -1612,7 +1612,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Lùi xe an toàn: Quan sát kỹ 2 bên và sau, có tín hiệu, chỉ lùi khi an toàn."
+    "hint": "Lùi xe an toàn: <b>quan sát hai bên và phía sau</b>, <b>bật tín hiệu lùi</b> và <b>chỉ lùi khi bảo đảm an toàn</b>."
   },
   {
     "id": 86,
@@ -1631,7 +1631,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Lùi xe nơi tầm nhìn che khuất: Không được lùi."
+    "hint": "Nơi <b>tầm nhìn bị che khuất</b>: <b>không được lùi xe</b>."
   },
   {
     "id": 87,
@@ -1650,7 +1650,7 @@
     "a_required": 0,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Tránh xe ngược chiều (đường không phân chia): Giảm tốc độ, đi về bên phải."
+    "hint": "Đường không phân chia hai chiều: <b>giảm tốc độ</b> và <b>đi về bên phải</b> để tránh xe ngược chiều."
   },
   {
     "id": 88,
@@ -1669,7 +1669,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Nhường đường khi tránh xe (cả 3 ý): Gần chỗ tránh hơn, xe xuống dốc, xe có chướng ngại vật."
+    "hint": "Tránh xe ngược chiều: <b>xe gần chỗ tránh vào tránh</b>, <b>xe xuống dốc nhường xe lên dốc</b>, <b>xe có chướng ngại nhường xe không có</b>."
   },
   {
     "id": 89,
@@ -1688,7 +1688,7 @@
     "a_required": 0,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Xuống dốc gặp xe lên dốc: Nhường đường cho xe lên dốc."
+    "hint": "Xuống dốc gặp xe lên dốc: <b>phải nhường đường cho xe lên dốc</b>."
   },
   {
     "id": 90,
@@ -1707,7 +1707,7 @@
     "a_required": 0,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Đường cong tầm nhìn hạn chế: Quan sát, giảm tốc độ, hoặc dừng lại."
+    "hint": "Đường cong tầm nhìn hạn chế: <b>quan sát kỹ</b>, <b>giảm tốc độ</b> hoặc <b>dừng lại khi cần</b>."
   },
   {
     "id": 91,
@@ -1726,7 +1726,7 @@
     "a_required": 0,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Đi từ đường không ưu tiên/nhánh: Nhường đường xe trên đường ưu tiên/chính."
+    "hint": "Từ đường <b>không ưu tiên</b> hoặc <b>đường nhánh</b> phải <b>nhường xe trên đường ưu tiên/đường chính</b>."
   },
   {
     "id": 92,
@@ -1745,7 +1745,7 @@
     "a_required": 0,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Giao nhau có vòng xuyến: Nhường đường cho xe đến từ bên trái."
+    "hint": "Giao nhau có <b>vòng xuyến</b>: <b>nhường đường cho xe đến từ bên trái</b>."
   },
   {
     "id": 93,
@@ -1764,7 +1764,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Giao nhau không có vòng xuyến: Nhường đường cho xe đến từ bên phải."
+    "hint": "Giao nhau <b>không có vòng xuyến</b>: <b>nhường đường cho xe đến từ bên phải</b>."
   },
   {
     "id": 94,
@@ -1783,7 +1783,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Nhường đường xe ưu tiên: Chữa cháy, quân sự, công an (khẩn cấp), CSGT dẫn đoàn, cứu thương, hộ đê, cứu nạn, đoàn xe tang."
+    "hint": "Gặp <b>xe ưu tiên</b>: <b>giảm tốc độ</b>, <b>đi sát lề phải hoặc dừng lại</b> để nhường đường."
   },
   {
     "id": 95,
@@ -1802,7 +1802,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe ưu tiên (trừ xe tang) khi làm nhiệm vụ: Không hạn chế tốc độ, không phụ thuộc đèn, được đi ngược chiều, ngược chiều trên làn dừng khẩn cấp cao tốc."
+    "hint": "Xe ưu tiên (trừ xe tang) làm nhiệm vụ được <b>không hạn chế tốc độ</b>, <b>không phụ thuộc đèn tín hiệu</b>, <b>đi ngược chiều</b> theo quy định."
   },
   {
     "id": 96,
@@ -1821,7 +1821,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Gặp tín hiệu xe ưu tiên: Giảm tốc độ, sát lề phải hoặc dừng lại nhường đường."
+    "hint": "Khi có tín hiệu xe ưu tiên: <b>giảm tốc độ</b>, <b>đi sát lề phải hoặc dừng lại</b> để nhường đường."
   },
   {
     "id": 97,
@@ -1840,7 +1840,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Xe CSGT không phát tín hiệu ưu tiên: Được vượt khi đảm bảo an toàn.”"
+    "hint": "Xe CSGT <b>không phát tín hiệu ưu tiên</b>: <b>được phép vượt khi bảo đảm an toàn</b>."
   },
   {
     "id": 98,
@@ -1859,7 +1859,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Xe cứu thương đang phát tín hiệu ưu tiên: Không được vượt."
+    "hint": "Xe cứu thương <b>đang phát tín hiệu ưu tiên</b>: <b>không được vượt</b>."
   },
   {
     "id": 99,
@@ -1878,7 +1878,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Đường sắt KHÔNG rào chắn/tín hiệu: Dừng phải, trước vạch, quan sát 2 phía, an toàn mới qua."
+    "hint": "Đường ngang <b>không có rào chắn, tín hiệu</b>: <b>dừng bên phải</b>, <b>trước vạch dừng</b>, <b>quan sát hai phía</b>, an toàn mới qua."
   },
   {
     "id": 100,
@@ -1897,7 +1897,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Đường sắt có tín hiệu/rào chắn đang hoạt động: Dừng lại bên phải, trước vạch dừng."
+    "hint": "Đường sắt <b>có tín hiệu hoặc chắn đang hoạt động</b>: <b>dừng bên phải</b>, <b>trước vạch dừng</b>."
   },
   {
     "id": 101,
