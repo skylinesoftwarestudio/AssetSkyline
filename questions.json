@@ -4614,7 +4614,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Đường nhiều ổ gà: Giảm tốc độ, về số thấp, giữ đều ga."
+    "hint": "Đường có nhiều <b>ổ gà</b> cần <b>giảm tốc độ</b>, về số thấp để xe ổn định và tránh mất lái."
   },
   {
     "id": 244,
@@ -4633,7 +4633,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Mưa to/sương mù: Bật đèn chiếu gần."
+    "hint": "Mưa to hoặc sương mù làm <b>giảm tầm nhìn</b>, phải bật <b>đèn chiếu gần</b>, đi chậm và sẵn sàng dừng xe an toàn."
   },
   {
     "id": 245,
@@ -4652,7 +4652,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Lái xe trời mưa: Giảm tốc, tăng quan sát, không phanh/ga/lái đột ngột, bật đèn gần, gạt nước."
+    "hint": "Trời mưa mặt đường trơn, cần <b>giảm tốc</b>, tránh phanh gấp hay đánh lái đột ngột để không bị trượt bánh."
   },
   {
     "id": 246,
@@ -4671,7 +4671,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Lùi xe an toàn: Quan sát trái/phải/sau, có tín hiệu, lùi tốc độ phù hợp."
+    "hint": "Khi lùi xe phải <b>quan sát toàn bộ xung quanh</b>, có tín hiệu và lùi với <b>tốc độ chậm</b> để tránh va chạm."
   },
   {
     "id": 247,
@@ -4690,7 +4690,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Lái xe khu đông dân cư: Giảm tốc độ an toàn + Đi đúng làn."
+    "hint": "Khu đông dân cư cần <b>giảm tốc độ</b>, nhường người đi bộ và <b>đi đúng làn</b> để bảo đảm an toàn."
   },
   {
     "id": 248,
@@ -4709,7 +4709,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Nhập làn cao tốc: Quan sát, tín hiệu, nhường xe trên cao tốc."
+    "hint": "Khi nhập cao tốc phải <b>nhường xe đang chạy trên cao tốc</b> và chỉ nhập làn khi đủ điều kiện an toàn."
   },
   {
     "id": 249,
@@ -4728,7 +4728,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Ra khỏi cao tốc: Tìm biển lối ra, quan sát sau/phải, an toàn thì tín hiệu, chuyển dần sang phải; KHÔNG lùi xe."
+    "hint": "Ra khỏi cao tốc phải đi theo <b>lối ra</b>, chuyển dần sang phải và <b>tuyệt đối không lùi xe</b>."
   },
   {
     "id": 250,
@@ -4747,7 +4747,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Dừng/đỗ làn khẩn cấp cao tốc: Chỉ khi xe sự cố, tai nạn, khẩn cấp không đi được."
+    "hint": "Làn dừng khẩn cấp chỉ được dùng khi <b>xe gặp sự cố, tai nạn hoặc tình huống khẩn cấp</b>."
   },
   {
     "id": 251,
@@ -4766,7 +4766,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Vượt xe kéo rơ moóc (đường đôi): Giữ khoảng cách + Chờ tín hiệu cho vượt + Vượt qua thì về lại làn và tắt xi nhan."
+    "hint": "Vượt xe kéo rơ moóc cần <b>giữ khoảng cách</b>, chờ tín hiệu cho vượt và không chạy song song lâu."
   },
   {
     "id": 252,
@@ -4785,7 +4785,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Xuống dốc dài (số tự động): Nhả ga, về số thấp, phanh chân phù hợp."
+    "hint": "Xuống dốc dài phải <b>về số thấp</b> và dùng phanh chân hợp lý để tránh mất phanh."
   },
   {
     "id": 253,
@@ -4804,7 +4804,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Từ đường nhánh ra đường chính: Quan sát, giảm tốc, tín hiệu, nhường xe đường chính."
+    "hint": "Từ đường nhánh ra đường chính phải <b>nhường đường</b> cho xe trên đường chính theo quy định."
   },
   {
     "id": 254,
@@ -4823,7 +4823,7 @@
     "a_required": 0,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Muốn dùng điện thoại khi lái xe: Giảm tốc độ, dừng xe nơi cho phép rồi mới dùng."
+    "hint": "Luật cấm sử dụng điện thoại khi đang chạy xe, phải <b>dừng xe đúng nơi cho phép</b> rồi mới dùng."
   },
   {
     "id": 255,
@@ -4842,7 +4842,7 @@
     "a_required": 0,
     "b1_required": 1,
     "right_required": 1,
-    "hint": "Thói quen nguy hiểm (xe tay ga): Chỉ dùng phanh trước."
+    "hint": "Xe tay ga chỉ dùng <b>phanh trước</b> dễ làm khóa bánh và gây ngã xe."
   },
   {
     "id": 256,
@@ -4861,7 +4861,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Mở cửa ô tô xuống xe: Quan sát, an toàn thì mở hé, rồi mở đủ."
+    "hint": "Mở cửa xe phải <b>quan sát phía sau và bên mở cửa</b> để tránh va chạm với xe đang lưu thông."
   },
   {
     "id": 257,
@@ -4880,7 +4880,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe mô tô quay đầu: Tín hiệu trước, giảm tốc + Chỉ nơi cho phép + Quan sát, nhường đường."
+    "hint": "Quay đầu xe phải <b>bật tín hiệu</b>, thực hiện ở nơi cho phép và <b>nhường đường</b> cho xe khác."
   },
   {
     "id": 258,
@@ -4899,7 +4899,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Tay ga xe mô tô: Điều khiển xe chạy về trước + Điều khiển tốc độ."
+    "hint": "Tay ga dùng để <b>điều khiển tốc độ</b> và giúp xe mô tô chạy về phía trước."
   },
   {
     "id": 259,
@@ -4918,7 +4918,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Gương chiếu hậu xe mô tô: Quan sát an toàn sau trái, phải trước khi chuyển hướng."
+    "hint": "Gương chiếu hậu giúp <b>quan sát phía sau hai bên</b> trước khi chuyển hướng."
   },
   {
     "id": 260,
@@ -4937,7 +4937,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 1,
-    "hint": "Điều khiển tay ga mô tô an toàn: Tăng từ từ, giảm nhanh."
+    "hint": "Tăng ga từ từ giúp xe ổn định, <b>giảm ga nhanh</b> giúp xử lý kịp thời tình huống nguy hiểm."
   },
   {
     "id": 261,
@@ -4956,7 +4956,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Tránh ngã xe máy (đường xấu/hẹp): Tốc độ thấp + Không nên dùng phanh trước + Không lắc người."
+    "hint": "Đường xấu, hẹp cần <b>đi chậm</b>, giữ thăng bằng và tránh phanh trước để không bị đổ xe."
   },
   {
     "id": 262,
@@ -4975,7 +4975,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Lái ô tô điện xuống dốc dài/đèo: Kiểm tra hệ thống an toàn/pin + Nhả ga + Rà phanh chân."
+    "hint": "Xuống đèo xe điện cần <b>kiểm tra pin</b>, tận dụng phanh tái sinh và kiểm soát tốc độ."
   },
   {
     "id": 263,
@@ -4994,7 +4994,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Ô tô điện qua ngập nước: Biết khả năng chìm của xe + Vững lái, đều ga + Chạy chậm."
+    "hint": "Qua đường ngập nước phải <b>đi chậm</b>, giữ đều ga và bảo đảm an toàn cho người xung quanh."
   },
   {
     "id": 264,
@@ -5013,7 +5013,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Kiểm tra dầu bôi trơn: Rút que, lau sạch."
+    "hint": "Mức dầu đúng khi nằm <b>giữa vạch tối thiểu và tối đa</b> trên que thăm dầu."
   },
   {
     "id": 265,
@@ -5032,7 +5032,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Xe ô tô tham gia giao thông: Kính chắn gió + Đủ đèn chiếu sáng gần xa."
+    "hint": "Xe ô tô phải bảo đảm <b>an toàn kỹ thuật</b> và <b>bảo vệ môi trường</b> theo quy định."
   },
   {
     "id": 266,
@@ -5051,7 +5051,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Bộ phận giảm thanh: Bắt buộc."
+    "hint": "Xe tham gia giao thông bắt buộc có <b>bộ phận giảm thanh</b> để hạn chế tiếng ồn."
   },
   {
     "id": 267,
@@ -5070,7 +5070,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Đèn bắt buộc trên ô tô: Chiếu sáng gần xa + Soi biển số."
+    "hint": "Ô tô phải có đầy đủ <b>đèn chiếu sáng</b> và <b>đèn tín hiệu</b> theo quy định."
   },
   {
     "id": 268,
@@ -5089,7 +5089,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Kính chắn gió ô tô: Kính an toàn."
+    "hint": "Kính chắn gió phải là <b>kính an toàn</b>, không nứt vỡ để bảo đảm tầm nhìn."
   },
   {
     "id": 269,
@@ -5108,7 +5108,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Bánh xe/lốp ô tô: Bánh xe chắc chắn + Lốp đủ số lượng/áp suất."
+    "hint": "Bánh xe và lốp phải <b>đúng quy cách</b>, đủ áp suất để xe vận hành an toàn."
   },
   {
     "id": 270,
@@ -5127,7 +5127,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hệ thống lái ô tô: Chuyển hướng chính xác + Cơ cấu không va chạm, quay vô lăng 2 bên lực không khác biệt nhiều."
+    "hint": "Hệ thống lái phải <b>chuyển hướng chính xác</b> và vận hành ổn định ở mọi điều kiện."
   },
   {
     "id": 271,
@@ -5146,7 +5146,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Bảo dưỡng thường xuyên ô tô: Giữ tính năng kỹ thuật tốt + Ngăn ngừa/phát hiện hư hỏng, giữ hình thức."
+    "hint": "Bảo dưỡng định kỳ giúp <b>kéo dài tuổi thọ xe</b> và phát hiện sớm hư hỏng."
   },
   {
     "id": 272,
@@ -5165,7 +5165,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Động cơ diesel không nổ: có tạp chất."
+    "hint": "Động cơ diesel không nổ thường do <b>nhiên liệu bẩn hoặc tắc lọc</b>, không liên quan tia lửa điện."
   },
   {
     "id": 273,
@@ -5184,7 +5184,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Ống xả ô tô: Không gây cháy + Miệng thoát không hướng trước/phải."
+    "hint": "Ống xả phải <b>an toàn</b>, không gây cháy và không hướng khí thải nguy hiểm."
   },
   {
     "id": 274,
@@ -5203,7 +5203,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Dây đai an toàn: cơ cấu hãm giữ chặt khi giật."
+    "hint": "Dây đai an toàn phải <b>khóa chắc</b> và tự hãm khi bị giật mạnh."
   },
   {
     "id": 275,
@@ -5222,7 +5222,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Động cơ 4 kỳ: Pít tông 4 hành trình / 1 lần sinh công."
+    "hint": "Động cơ 4 kỳ hoàn thành chu trình bằng <b>4 hành trình pít tông</b> và chỉ có 1 lần sinh công."
   },
   {
     "id": 276,
@@ -5241,7 +5241,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hệ thống bôi trơn: Giảm ma sát/mài mòn, làm kín/sạch/mát, chống gỉ."
+    "hint": "Hệ thống bôi trơn giúp <b>giảm ma sát</b>, làm mát và bảo vệ động cơ."
   },
   {
     "id": 277,
@@ -5260,7 +5260,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Niên hạn xe tải: Không quá 25 năm."
+    "hint": "Xe ô tô tải có <b>niên hạn sử dụng tối đa 25 năm</b> tính từ năm sản xuất."
   },
   {
     "id": 278,
@@ -5279,7 +5279,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Niên hạn xe khách (>8 chỗ): Không quá 20 năm."
+    "hint": "Xe chở người trên 8 chỗ chỉ được sử dụng <b>không quá 20 năm</b> theo quy định."
   },
   {
     "id": 279,
@@ -5298,7 +5298,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Động cơ ô tô: Biến nhiệt năng thành cơ năng."
+    "hint": "Động cơ ô tô có nhiệm vụ <b>biến nhiệt năng thành cơ năng</b> để xe chuyển động."
   },
   {
     "id": 280,
@@ -5317,7 +5317,7 @@
     "a_required": 0,
     "b1_required": 0,
     "right_required": 0,
-    "hint": "Hệ thống truyền lực: Truyền mô men quay từ động cơ đến bánh xe chủ động."
+    "hint": "Hệ thống truyền lực dùng để <b>truyền mô men quay</b> từ động cơ tới bánh xe."
   },
   {
     "id": 281,
