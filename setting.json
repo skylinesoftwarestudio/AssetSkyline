@@ -8,7 +8,7 @@
   "ios": {
     "minVersion": "2.0.0",
     "latestVersion": "2.0.0",
-    "forceUpdate": truw,
+    "forceUpdate": true,
     "updateMessage": "Phiên bản mới đã có sẵn với nhiều cải tiến!"
   }
 }
