@@ -1,0 +1,14 @@
+{
+  "android": {
+    "minVersion": "2.0.0",
+    "latestVersion": "1.0.0",
+    "forceUpdate": true,
+    "updateMessage": "Phiên bản mới đã có sẵn với nhiều cải tiến!"
+  },
+  "ios": {
+    "minVersion": "2.0.0",
+    "latestVersion": "2.0.0",
+    "forceUpdate": truw,
+    "updateMessage": "Phiên bản mới đã có sẵn với nhiều cải tiến!"
+  }
+}
