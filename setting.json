@@ -6,7 +6,7 @@
     "updateMessage": "Phiên bản mới đã có sẵn với nhiều cải tiến!"
   },
   "ios": {
-    "minVersion": "0.0.1",
+    "minVersion": "1.0.1",
     "forceUpdate": true,
     "storeUrl" : "",
     "updateMessage": "Phiên bản mới đã có sẵn với nhiều cải tiến!"
