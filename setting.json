@@ -2,11 +2,13 @@
   "android": {
     "minVersion": "2.0.0",
     "forceUpdate": true,
+    "storeUrl" : "",
     "updateMessage": "Phiên bản mới đã có sẵn với nhiều cải tiến!"
   },
   "ios": {
     "minVersion": "1.0.0",
     "forceUpdate": true,
+    "storeUrl" : "",
     "updateMessage": "Phiên bản mới đã có sẵn với nhiều cải tiến!"
   }
 }
