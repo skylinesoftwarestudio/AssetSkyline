@@ -1,6 +1,6 @@
 {
   "android": {
-    "minVersion": "1.0.1",
+    "minVersion": "1.0.0",
     "forceUpdate": true,
     "storeUrl" : "https://play.google.com/store/apps/details?id=com.bmskyline.driving_licence.car",
     "updateMessage": "Phiên bản mới đã có sẵn với nhiều cải tiến!"
