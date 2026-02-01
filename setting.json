@@ -1,14 +1,26 @@
 {
-  "android": {
+  "android_car": {
     "minVersion": "1.0.0",
     "forceUpdate": true,
-    "storeUrl" : "https://play.google.com/store/apps/details?id=com.bmskyline.driving_licence.car",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.bmskyline.driving_licence.car",
     "updateMessage": "Phiên bản mới đã có sẵn với nhiều cải tiến!"
   },
-  "ios": {
+  "android_motorcycle": {
     "minVersion": "1.0.0",
     "forceUpdate": true,
-    "storeUrl" : "https://play.google.com/store/apps/details?id=com.giftful.Giftful",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.bmskyline.driving_licence.motorcycle",
+    "updateMessage": "Phiên bản mới đã có sẵn với nhiều cải tiến!"
+  },
+  "ios_car": {
+    "minVersion": "1.0.0",
+    "forceUpdate": true,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.giftful.Giftful",
+    "updateMessage": "Phiên bản mới đã có sẵn với nhiều cải tiến!"
+  },
+  "ios_motorcycle": {
+    "minVersion": "1.0.0",
+    "forceUpdate": true,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.giftful.Giftful",
     "updateMessage": "Phiên bản mới đã có sẵn với nhiều cải tiến!"
   }
 }
